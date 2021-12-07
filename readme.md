@@ -42,6 +42,6 @@ The Technologies used in this project:
 2. Clone it to your local machine
 
 ## Team
-1. Rima Assaad (githubaccount)
-2. Ibrahim Nour (githubaccount)
-3. Hodhod (githubaccount)
+1. [Rima Assaad](https://github.com/rimamohamedassaad)
+2. [Ibrahim Nour](https://github.com/Nourcova)
+3. [Hodhod](https://github.com/hodhod0)
