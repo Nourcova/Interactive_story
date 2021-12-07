@@ -4,7 +4,7 @@
   - [Description](#description)
   - [How it works](#how-it-works)
   - [Scrennshots](#scrennshots)
-  - [Contain](#contain)
+  - [Content](#content)
   - [Technology](#technology)
   - [Install](#install)
   - [Team](#team)
@@ -18,7 +18,7 @@ In this game, you are the Wizard Balco who has choosen his path to deticate his 
 Kill the Demons and collect the missing items to save the widow mother from her deadly disease. But becareful on your way, becareful not to be the vitim of Greed, the victim of betrayal, or the victim of your weakness.
 
 ## How it works ##
-(link to script file)
+[Script](https://github.com/Nourcova/Interactive_story/blob/master/Beyond%20Darkness.pdf)
 ## Scrennshots
 <img src="images/image1.jpg" alt="drawing" width="400"/>
 
@@ -26,17 +26,16 @@ Kill the Demons and collect the missing items to save the widow mother from her 
 
 ## Content 
 Our projecct contains:
-1. A script (stoy of the game as pdf file) (link)
-2. A graph to explain the game script, how it works, different branches and the ending(link)
-2. A readme to explain more the project (this)
-4. images that should be included in the story (link)
-5. A web page (html, css) that represents the story with different scenarios/branches (link)
+1. A script (stoy of the game as pdf file) ((https://github.com/Nourcova/Interactive_story/blob/master/Beyond%20Darkness.pdf)
+2. A graph to explain the game script, how it works, different branches and the ending (https://github.com/Nourcova/Interactive_story/blob/master/Beyond%20Darkness.svg)
+2. A readme to explain more the project
+4. images that should be included in the story (https://github.com/Nourcova/Interactive_story/tree/master/images)
+5. A web page (html, css) that represents the story with different scenarios/branches (https://github.com/Nourcova/Interactive_story/blob/master/index.html)
 
 ## Technology 
 The Technologies used in this project:
 1. For the graph (draw.io)
-2. For the images/caracters (link)
-3. For the web page (html/css)
+2. For the web page (html/css)
 
 ## Install
 1. Fork it to your repository
