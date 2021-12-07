@@ -11,7 +11,7 @@
 
 
 ## Description 
-After the world was drowned with sins and iniquity, the Gods decided to punish us with their serve torment, with diseases and Demons invading the glove.
+After the world was drowned with sins and iniquity, the God decided to punish us with their serve torment, with diseases and Demons invading the glove.
 
 In this game, you are the Wizard Balco who has choosen his path to deticate his life to kill the Demons in order to heal the patients from their illness and free them from curses.
 
